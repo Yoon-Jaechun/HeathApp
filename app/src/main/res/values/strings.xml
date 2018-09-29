@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">HeathApp</string>
-    <string name="endTime">00:00:000</string>
+    <string name="startTime">60</string>
+    <string name="endTime">60</string>
+    <string name="restart">restart</string>
+    <string name="stop">stop</string>
+    <string name="remain_time_text">남은시간 : </string>
 </resources>
